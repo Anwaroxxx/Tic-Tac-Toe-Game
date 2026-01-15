@@ -35,6 +35,12 @@ Open `main.html` in your browser to play.
 - Reset button for a new game
 - Responsive grid layout
 - Clean, modern UI design
+---
+
+## License ⚖️
+
+This project is open source and free to use.
+Feel free to modify and distribute.
 
 ---
 

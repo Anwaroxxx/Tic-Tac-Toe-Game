@@ -10,15 +10,6 @@ Play with a friend locally in the browser. Includes win detection, draw detectio
 
 ---
 
-## 🚀 Demo
-
-Open `main.html` in your browser to play.
-
-![Tic-Tac-Toe Screenshot](screenshots/board.png)
-*Add your own screenshots or GIFs here*
-
----
-
 ## 🛠️ Technologies & Languages
 
 - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) HTML5

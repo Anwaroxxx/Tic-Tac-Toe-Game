@@ -36,4 +36,13 @@ Feel free to modify and distribute.
 ---
 
 ## 📂 Project Structure
-
+```bash
+Tic-Tac-Toe/
+├─ public/
+│  ├─ css/
+│  │  └─ app.css       # Styles for the game
+│  └─ js/
+│     └─ main.js       # Game logic
+├─ main.html           # Main HTML file
+└─ README.md           # This file
+```
